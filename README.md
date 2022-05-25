@@ -5,7 +5,7 @@ para incrementar el numero de bugfixes en el package
 `npm version patch`
 
 para incrementar el numero de features o actualizaciones en el package
-`npm version minior`
+`npm version minor`
 
 para incrementar el numero de version en el package
 `npm version major`
